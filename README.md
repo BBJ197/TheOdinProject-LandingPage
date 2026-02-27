@@ -1,7 +1,6 @@
 # TheOdinProject-LandingPage
-It's an Odin project under Foundations course flexbox topic.
 
-I'm instructed to replicate this
+This is another odin project under foudations cource flexbox 
 
-
+im instructed to replicate this
 ![alt text](01.png)
