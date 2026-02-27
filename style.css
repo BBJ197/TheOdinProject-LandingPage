@@ -39,6 +39,12 @@ p2 {
     font-size: 13px;
 }
 
+h3 {
+    color: white;
+    font-size: 24px;
+    margin: 0px;
+}
+
 .i{
     width: 150px;
     height: 150px;
@@ -125,3 +131,27 @@ p2 {
     font-weight: 900;
 }
 
+.body4 {
+    padding: 100px 200px;
+}
+
+.box {
+    background-color: #3882F6;
+    display: flex; 
+    padding: 40px 100px;
+    border-radius: 10px;
+    justify-content: space-between;
+}
+
+.boxtext {
+    display: flex;
+    flex-direction: column; 
+}
+
+.signup2 {
+    background-color: #3882F6;
+    color: white;
+    border: #F9FAF8 solid 2px;
+    border-radius: 10px;
+    padding: 0px 30px;
+}
