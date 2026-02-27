@@ -34,6 +34,11 @@ h2{
     font-weight: 900;
 }
 
+p2 {
+    text-align: center;
+    font-size: 13px;
+}
+
 .i{
     width: 150px;
     height: 150px;
@@ -103,3 +108,20 @@ h2{
     flex-direction: column;
     width: 150px;
 }
+
+.body3 {
+    background-color: #E5E7EB;
+    padding: 100PX;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+}
+
+.by {
+    text-align: right;
+    font-weight: 900;
+}
+
